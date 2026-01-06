@@ -2,6 +2,13 @@
 
 WidgetWiz is an advanced Android mobile device feature testing application designed to offer comprehensive and streamlined testing for various device functionalities. This app eliminates the need for external setups and provides intuitive in-app testing and reporting capabilities. Compatible with Android 13 and above, WidgetWiz is ideal for device diagnostics, quality assurance, and feature validation.
 
+## My Role & Contributions
+- Implemented cloud storage functionality using Supabase
+- Designed and implemented USB device testing and read/write logic
+- Worked on application testing and validation
+- Assisted in verifying device feature tests and overall application stability
+
+Through this project, I gained practical experience working with device-level features, cloud storage integration, and testing a production-scale Android application.
 
 ## Features 
 
